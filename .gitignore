@@ -1,0 +1,13 @@
+# Foundry
+cache/
+out/
+broadcast/
+lib/
+
+# Environment
+.env
+
+# Editors
+.idea/
+.vscode/
+*.iml
