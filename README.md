@@ -70,5 +70,5 @@ Adapter 根据自身的输出 token 余额变化检查 `minBuyAmount`，再把�
 这是可运行的初版实现，不是已审计的生产代码。当前只实现同链 swap；
 Bridge Adapter、目标链收费、动态 Gas Oracle、多 Operator 审批和治理合约仍需后续实现。
 
-详细设计见 [初版设计报告](docs/initial-design.md)，实现边界见
-[实现说明](docs/implementation.md)。
+详细设计见 [初版设计报告](docs/initial-design.md)，完整系统架构见
+[系统架构设计](docs/system-architecture.md)，实现边界见 [实现说明](docs/implementation.md)。
